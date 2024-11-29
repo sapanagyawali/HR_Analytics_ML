@@ -1,2 +1,2 @@
 # HR_Analytics_ML
-The purpose of this project is to find out whether the data scientist is going to churn or not i.e get job or not.
+This case study aims to model the probability of attrition of each employee from the HR Analytics Dataset, available on Kaggle. Its conclusions will allow the management to understand which factors urge the employees to leave the company and which changes should be made to avoid their departure.
